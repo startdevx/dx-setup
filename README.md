@@ -8,7 +8,7 @@
 
 TO DO: Video + explanation of DevX CLI with screenshots.
 
-This guide walks you through installing and configuring **DevX CLI** on Windows environment.
+This guide walks you through installing and configuring **DevX CLI** on Windows environment within your organization.
 
 ## 🔥 Prerequisites
 
@@ -57,3 +57,11 @@ You can enable additional features in **DevX CLI Installer** by configuring the 
 | `ldapDirectory` | `string` | Enables LDAP directory integration. DevX CLI will retrieve the user’s name and email from the directory to configure Git. If not set, it defaults to the local system user name. For example, `LDAP://startdevx.com` |
 | `useProxy` | `boolean` | If `true`, DevX CLI automatically detects and configures corporate proxies by setting the `HTTP_PROXY` and `HTTPS_PROXY` environment variables |
 | `repository.analytics` | `string` | Enables analytics. Create an empty repository in your organization’s source control platform and specify its Git clone URL here. Ensure all DevX CLI users have **write access** to this repository to allow pushing analytics data to the `default` branch |
+
+## ✅ DevX CLI is now ready to be used within your organization
+
+Software engineers can now install it following the `README.md` instructions file located in the **DevX CLI Installer** repository.
+
+## ⏭️ Next Step: Create Your First Feature
+
+**DevX CLI** without features is an empty shell. Create your first feature by following the tutorial in the `README.md` file in the **DevX CLI Packages** repository.
