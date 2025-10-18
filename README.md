@@ -47,8 +47,8 @@ After cloning the repositories, open the `settings.json` file located in the **D
 | Field | Type | Description |
 | ----------- | ----------- | ----------- |
 | `emailDomain` | `string` | The corporate email domain. For example, for kevin@startdevx.com, use `startdevx.com` |
-| `repository.core` | `string` | The corporate Git clone URL of your DevX CLI Core repository |
-| `repository.packages` | `string` | The corporate Git clone URL of your DevX CLI Packages repository |
+| `repositories.core` | `string` | The corporate Git clone URL of your DevX CLI Core repository |
+| `repositories.packages` | `string` | The corporate Git clone URL of your DevX CLI Packages repository |
 
 ## ✨ Optional Configuration
 
@@ -58,7 +58,7 @@ You can enable additional features in **DevX CLI Installer** by configuring the 
 | ----------- | ----------- | ----------- |
 | `ldapDirectory` | `string` | Enables LDAP directory integration. DevX CLI will retrieve the user’s name and email from the directory to configure Git. If not set, it defaults to the local system user name. For example, `LDAP://startdevx.com` |
 | `useProxy` | `boolean` | If `true`, DevX CLI automatically detects and configures corporate proxies by setting the `HTTP_PROXY` and `HTTPS_PROXY` environment variables |
-| `repository.analytics` | `string` | To enable analytics, create an empty repository in your organization’s source control platform and specify its Git clone URL here. Ensure all DevX CLI users have **write access** to this repository to allow pushing analytics data to the `default` branch |
+| `repositories.analytics` | `string` | To enable analytics, create an empty repository in your organization’s source control platform and specify its Git clone URL here. Ensure all DevX CLI users have **write access** to this repository to allow pushing analytics data to the `default` branch |
 
 ## ✅ DevX CLI is now ready to be used within your organization
 
