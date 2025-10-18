@@ -58,7 +58,7 @@ You can enable additional features in **DevX CLI Installer** by configuring the 
 | ----------- | ----------- | ----------- |
 | `ldapDirectory` | `string` | Enables LDAP directory integration. DevX CLI will retrieve the user’s name and email from the directory to configure Git. If not set, it defaults to the local system user name. For example, `LDAP://startdevx.com` |
 | `useProxy` | `boolean` | If `true`, DevX CLI automatically detects and configures corporate proxies by setting the `HTTP_PROXY` and `HTTPS_PROXY` environment variables |
-| `repository.analytics` | `string` | Enables analytics. Create an empty repository in your organization’s source control platform and specify its Git clone URL here. Ensure all DevX CLI users have **write access** to this repository to allow pushing analytics data to the `default` branch |
+| `repository.analytics` | `string` | To enable analytics, create an empty repository in your organization’s source control platform and specify its Git clone URL here. Ensure all DevX CLI users have **write access** to this repository to allow pushing analytics data to the `default` branch |
 
 ## ✅ DevX CLI is now ready to be used within your organization
 
