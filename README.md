@@ -4,11 +4,9 @@
 [![Git Required](https://img.shields.io/badge/Dependency-Git-orange?logo=git)]()
 [![PowerShell](https://img.shields.io/badge/PowerShell-5.1+-lightblue?logo=powershell)]()
 
-## 🧠 DevX CLI Overview
-
-TO DO: Video + explanation of DevX CLI with screenshots.
-
 This guide walks you through installing and configuring **DevX CLI** on Windows environment within your organization.
+
+## 🧠 DevX CLI Overview (TO DO)
 
 ## 🔥 Prerequisites
 
