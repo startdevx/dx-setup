@@ -16,9 +16,9 @@ Before installing, ensure the following **required** components are available on
 
     Installed by default on Windows. DX CLI requires Windows PowerShell to run in `FullLanguage` mode. You can verify the current mode by running the following command in a PowerShell session:
 
-    ```powershell
-    $ExecutionContext.SessionState.LanguageMode
-    ```
+```powershell
+$ExecutionContext.SessionState.LanguageMode
+```
 
 * **Git**
 
