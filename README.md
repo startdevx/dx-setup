@@ -60,7 +60,7 @@ You can enable additional features in **DevX CLI Installer** by configuring the 
 | `useProxy` | `boolean` | If `true`, DevX CLI automatically detects and configures corporate proxies by setting the `HTTP_PROXY` and `HTTPS_PROXY` environment variables |
 | `repositories.analytics` | `string` | To enable analytics, create an empty repository in your organization’s source control platform and specify its Git clone URL here. Ensure all DevX CLI users have **write access** to this repository to allow pushing analytics data to the `default` branch |
 
-## ✅ DevX CLI is now ready to be used within your organization
+## ✅ DevX CLI Is Now Ready To Be Used Within Your Organization
 
 Software engineers can now install it following the `README.md` instructions file located in the **DevX CLI Installer** repository.
 
