@@ -1,4 +1,4 @@
-# Getting Started with DevX CLI
+# Getting Started with DevX CLI in your organization
 
 [![Windows Support](https://img.shields.io/badge/OS-Windows-blue?logo=windows)]()
 [![Git Required](https://img.shields.io/badge/Dependency-Git-orange?logo=git)]()
