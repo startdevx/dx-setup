@@ -6,7 +6,7 @@
 
 This guide walks you through installing and configuring **DevX CLI** on Windows environment within your organization.
 
-## 🧠 DevX CLI Overview (TO DO)
+## 🔎 DevX CLI Overview (TO DO)
 
 ## 🔥 Prerequisites
 
@@ -64,6 +64,6 @@ Software engineers can now install it following the `README.md` instructions fil
 
 **DevX CLI** without features is an empty shell. Create your first feature by following the tutorial in the `README.md` file in the **DevX CLI Packages** repository.
 
-## Credits
+## 🪙 Credits
 
 DevX CLI is an open source solution available on [GitHub](https://github.com/startdevx/devxcli-get-started) and crafted by [Start DevX](https://github.com/startdevx) organization.
