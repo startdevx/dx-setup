@@ -1,4 +1,4 @@
-# Get Started With DX CLI
+# Setup DX CLI Within Your Organization
 
 This guide walks you through installing and configuring **DX CLI** on Windows environment within your organization.
 
