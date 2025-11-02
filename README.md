@@ -2,6 +2,8 @@
 
 ## What Value Does DX CLI bring?
 
+![Alt Text](images/solar.gif)
+
 This guide walks you through the one-time setup and configuration of DX CLI within your organization.
 
 ## 🔥 Prerequisites
